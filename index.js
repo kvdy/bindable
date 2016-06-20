@@ -29,4 +29,4 @@ class Bindable {
 	}
 }
 
-module.exports = bindable;
+module.exports = Bindable;
