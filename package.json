@@ -1,0 +1,25 @@
+{
+  "name": "bindable",
+  "version": "1.0.0",
+  "description": "This class is responsible for binding all functions of a class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kvdy/bindable.git"
+  },
+  "keywords": [
+    "bind"
+  ],
+  "author": "Kaustubh Vaidya <kaustub.vaidya@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kvdy/bindable/issues"
+  },
+  "homepage": "https://github.com/kvdy/bindable#readme"
+}
